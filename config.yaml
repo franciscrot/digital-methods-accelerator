@@ -7,7 +7,7 @@ enableGitInfo: true
 
 params:
   bookLogo: ''
-  BookRepo: 'https://github.com/digital-methods-accelerator/digital-methods-accelerator'
+  BookRepo: 'https://github.com/franciscrot/digital-methods-accelerator'
   BookSection: 'toolkit'
   BookCommitPath: 'commit'
   BookEditPath: 'edit/main'
@@ -33,12 +33,12 @@ menu:
   # before: []
   after:
     - name: "Github"
-      url: "https://github.com/digital-methods-accelerator/digital-methods-accelerator"
+      url: "https://github.com/franciscrot/digital-methods-accelerator"
       weight: 10
 
 
 # Tidy up some default hugo site settings
-baseURL: 'https://digital-methods-accelerator.github.io/digital-methods-accelerator/'
+baseURL: 'https://franciscrot.github.io/digital-methods-accelerator/'
 uglyurls: true
 relativeurls: true
 canonifyURLs: false
