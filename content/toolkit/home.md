@@ -47,9 +47,10 @@ The table below links to every area in the Accelerator and lists the associated 
 | Critical AI Practice | [Carbon estimation](critical-AI-practice.html#carbon-estimation) | CodeCarbon |
 | Critical AI Practice | [Distance reading](critical-AI-practice.html#distance-reading) | AI summation methods, risks, and harms |
 | Critical AI Practice | [AI era media literacy](critical-AI-practice.html#ai-era-media-literacy) | Identifying genAI content |
-| SHL Digital | [Infrastructure](shl-digital.html#infrastructure) | To be defined |
-| SHL Digital | [Services](shl-digital.html#services) | To be defined |
-| SHL Digital | [Sustainability](shl-digital.html#sustainability) | To be defined |
+
+## SHL Digital
+
+
 
 ## Software requirements
 
