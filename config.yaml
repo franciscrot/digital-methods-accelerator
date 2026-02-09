@@ -38,8 +38,9 @@ menu:
 
 
 # Tidy up some default hugo site settings
+baseURL: 'https://franciscrot.github.io/digital-methods-accelerator/'
 uglyurls: true
-relativeurls: true
+relativeurls: false
 canonifyURLs: true
 disableHugoGeneratorInject: true
 publishDir: ./public
