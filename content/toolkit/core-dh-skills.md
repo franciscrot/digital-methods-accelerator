@@ -18,19 +18,13 @@ Basic programming ideas and workflows that support humanities research.
 - Programming Historian: Python Introduction and Installation. "This first lesson in our section on dealing with Online Sources is designed to get you and your computer set up to start programming. We will focus on installing the relevant software – all free and reputable – and finally we will help you to get your toes wet with some simple programming that provides immediate results."
 - Programming Historian: Introduction to the Bash Command Line. "This lesson will teach you how to enter commands using a command-line interface, rather than through a graphical interface. Command-line interfaces have advantages for computer users who need more precision in their work, such as digital historians."
 - Programming Historian: Introduction to the Windows Command Line with PowerShell. "This tutorial will introduce you to the basics of Windows PowerShell, the standard command-line interface for Windows computers."
-- Programming Historian: Setting up an Integrated Development Environment for Python (Linux). "This lesson will help you set up an integrated development environment for Python on a computer running the Linux operating system."
-- Programming Historian: Setting Up an Integrated Development Environment for Python (Mac). "This lesson will help you set up an integrated development environment for Python on a computer running a Mac operating system."
-- Programming Historian: Setting Up an Integrated Development Environment for Python (Windows). "This lesson will help you set up an integrated development environment for Python on a computer running the Windows operating system."
+- Programming Historian: Setting Up an Integrated Development Environment for Python (Windows). "This lesson will help you set up an integrated development environment for Python on a computer running the Windows operating system." 
 - Programming Historian: Introduction to Jupyter Notebooks. "Jupyter notebooks provide an environment where you can freely combine human-readable narrative with computer-readable code. This lesson describes how to install the Jupyter Notebook software, how to run and create Jupyter notebook files, and contexts where Jupyter notebooks can be particularly helpful."
 - Programming Historian: Working with Text Files in Python. "In this lesson you will learn how to manipulate text files using Python."
 - Programming Historian: Manipulating Strings in Python. "This lesson is a brief introduction to string manipulation techniques in Python."
 - Programming Historian: Code Reuse and Modularity in Python. "Computer programs can become long, unwieldy and confusing without special mechanisms for managing complexity. This lesson will show you how to reuse parts of your code by writing functions and break your programs into modules, in order to keep everything concise and easier to debug."
 - Programming Historian: Creating and Viewing HTML Files with Python. "Here you will learn how to create HTML files with Python scripts, and how to use Python to automatically open an HTML file in Firefox."
 - Programming Historian: Output Data as an HTML File with Python. "This lesson takes the frequency pairs created in the ‘Counting Frequencies’ lesson and outputs them to an HTML file."
-- Programming Historian: Keywords in Context (Using n-grams) with Python. "This lesson takes the frequency pairs collected in “Counting Frequencies” and outputs them in HTML."
-- Programming Historian: Output Keywords in Context in an HTML File with Python. "This lesson builds on ‘Keywords in Context (Using N-grams)’, where n-grams were extracted from a text. Here, you will learn how to output all of the n-grams of a given keyword in a document downloaded from the Internet, and display them clearly in your browser window."
-- Programming Historian: Counting Word Frequencies with Python. "Counting the frequency of specific words in a list can provide illustrative data. This lesson will teach you Python’s easy way to count such frequencies."
-- Programming Historian: Understanding Web Pages and HTML. "This lesson introduces you to HTML and the web pages it structures."
 - Programming Historian: Installing Python Modules with pip. "There are many ways to install external python libraries; this tutorial explains one of the most common methods using pip."
 </details>
 
@@ -91,6 +85,10 @@ Text and cultural analytics explore computational approaches to studying languag
 - Programming Historian: Text Mining in Python through the HTRC Feature Reader. "Explains how to use Python to summarize and visualize data on millions of texts from the HathiTrust Research Center’s Extracted Features dataset."
 - Programming Historian: Text Mining YouTube Comment Data with Wordfish in R. "In this lesson, you will learn how to download YouTube video comments and use the R programming language to analyze the dataset with Wordfish."
 - Programming Historian: Analyzing Multilingual French and Russian Text using NLTK, spaCy, and Stanza. "This lesson covers tokenization, part-of-speech tagging, and lemmatization, as well as automatic language detection, for non-English and multilingual text."
+- - Programming Historian: Keywords in Context (Using n-grams) with Python. "This lesson takes the frequency pairs collected in “Counting Frequencies” and outputs them in HTML."
+- Programming Historian: Output Keywords in Context in an HTML File with Python. "This lesson builds on ‘Keywords in Context (Using N-grams)’, where n-grams were extracted from a text. Here, you will learn how to output all of the n-grams of a given keyword in a document downloaded from the Internet, and display them clearly in your browser window."
+- Programming Historian: Counting Word Frequencies with Python. "Counting the frequency of specific words in a list can provide illustrative data. This lesson will teach you Python’s easy way to count such frequencies."
+- Programming Historian: Understanding Web Pages and HTML. "This lesson introduces you to HTML and the web pages it structures."
 </details>
 
 ## Networked culture {#networked-culture}
