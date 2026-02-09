@@ -220,6 +220,23 @@
 &lt;li&gt;&lt;a href="https://docs.google.com/document/d/1n2WpHzsr5VIRAJ2cPvKyZ78dj0JTdke2kDyYtkHjRpI/edit?usp=sharing"&gt;Introduction to Programming&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://thonny.org/"&gt;Thonny, a Python IDE for beginners&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://colab.research.google.com/drive/1KEyBnHgFcLf2kyTv-lVPobW34DAIYkZ0"&gt;Introduction to Google Colab (and topic modelling, while we&amp;rsquo;re at it!)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Python Introduction and Installation. &amp;ldquo;This first lesson in our section on dealing with Online Sources is designed to get you and your computer set up to start programming. We will focus on installing the relevant software – all free and reputable – and finally we will help you to get your toes wet with some simple programming that provides immediate results.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Introduction to the Bash Command Line. &amp;ldquo;This lesson will teach you how to enter commands using a command-line interface, rather than through a graphical interface. Command-line interfaces have advantages for computer users who need more precision in their work, such as digital historians.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Introduction to the Windows Command Line with PowerShell. &amp;ldquo;This tutorial will introduce you to the basics of Windows PowerShell, the standard command-line interface for Windows computers.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Setting up an Integrated Development Environment for Python (Linux). &amp;ldquo;This lesson will help you set up an integrated development environment for Python on a computer running the Linux operating system.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Setting Up an Integrated Development Environment for Python (Mac). &amp;ldquo;This lesson will help you set up an integrated development environment for Python on a computer running a Mac operating system.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Setting Up an Integrated Development Environment for Python (Windows). &amp;ldquo;This lesson will help you set up an integrated development environment for Python on a computer running the Windows operating system.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Introduction to Jupyter Notebooks. &amp;ldquo;Jupyter notebooks provide an environment where you can freely combine human-readable narrative with computer-readable code. This lesson describes how to install the Jupyter Notebook software, how to run and create Jupyter notebook files, and contexts where Jupyter notebooks can be particularly helpful.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Working with Text Files in Python. &amp;ldquo;In this lesson you will learn how to manipulate text files using Python.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Manipulating Strings in Python. &amp;ldquo;This lesson is a brief introduction to string manipulation techniques in Python.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Code Reuse and Modularity in Python. &amp;ldquo;Computer programs can become long, unwieldy and confusing without special mechanisms for managing complexity. This lesson will show you how to reuse parts of your code by writing functions and break your programs into modules, in order to keep everything concise and easier to debug.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Creating and Viewing HTML Files with Python. &amp;ldquo;Here you will learn how to create HTML files with Python scripts, and how to use Python to automatically open an HTML file in Firefox.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Output Data as an HTML File with Python. &amp;ldquo;This lesson takes the frequency pairs created in the ‘Counting Frequencies’ lesson and outputs them to an HTML file.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Keywords in Context (Using n-grams) with Python. &amp;ldquo;This lesson takes the frequency pairs collected in “Counting Frequencies” and outputs them in HTML.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Output Keywords in Context in an HTML File with Python. &amp;ldquo;This lesson builds on ‘Keywords in Context (Using N-grams)’, where n-grams were extracted from a text. Here, you will learn how to output all of the n-grams of a given keyword in a document downloaded from the Internet, and display them clearly in your browser window.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Counting Word Frequencies with Python. &amp;ldquo;Counting the frequency of specific words in a list can provide illustrative data. This lesson will teach you Python’s easy way to count such frequencies.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Understanding Web Pages and HTML. &amp;ldquo;This lesson introduces you to HTML and the web pages it structures.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Installing Python Modules with pip. &amp;ldquo;There are many ways to install external python libraries; this tutorial explains one of the most common methods using pip.&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;h2 id="data-work"&gt;
@@ -265,6 +282,14 @@
 &lt;li&gt;SPARQL / TEI&lt;/li&gt;
 &lt;li&gt;IIIF&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Historian: Introduction to Encoding Texts in TEI (Part 1). &amp;ldquo;This lesson teaches you the basics of using TEI-XML to encode texts, and demonstrates how to create a minimal TEI document.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Transforming Data for Reuse and Re-publication with XML and XSL. &amp;ldquo;This tutorial will provide you with the ability to convert or transform historical data from an XML database into a variety of different presentations.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Introduction to the Principles of Linked Open Data. &amp;ldquo;Introduces core concepts of Linked Open Data, including URIs, ontologies, RDF formats, and a gentle intro to the graph query language SPARQL.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Reshaping JSON with jq. &amp;ldquo;Working with data from an art museum API and from the Twitter API, this lesson teaches how to use the command-line utility jq to filter and parse complex JSON files into flat CSV files.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id="ai-critique"&gt;
  AI critique
  &lt;a class="anchor" href="#ai-critique"&gt;#&lt;/a&gt;
@@ -274,6 +299,12 @@
 &lt;li&gt;Resistance&lt;/li&gt;
 &lt;li&gt;Abolition&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Historian: Interrogating a National Narrative with GPT-2. &amp;ldquo;In this lesson, you will learn how to apply a Generative Pre-trained Transformer language model to a large-scale corpus so that you can locate broad themes and trends within written text.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Creating Deep Convolutional Neural Networks for Image Classification. &amp;ldquo;This lesson provides a beginner-friendly introduction to convolutional neural networks (CNNs) for image classification.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id="climate-environment"&gt;
  Climate and environment
  &lt;a class="anchor" href="#climate-environment"&gt;#&lt;/a&gt;
@@ -281,6 +312,11 @@
 &lt;ul&gt;
 &lt;li&gt;Digital sustainability&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Historian: Preserving Your Research Data. &amp;ldquo;This lesson will suggest ways in which historians can document and structure their research data so as to ensure it remains useful in the future.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id="what-is-tech"&gt;
  What is tech?
  &lt;a class="anchor" href="#what-is-tech"&gt;#&lt;/a&gt;
@@ -295,7 +331,14 @@
 &lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Humanities data science&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Research Practice</title><link>https://franciscrot.github.io/digital-methods-accelerator/toolkit/research-practice.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://franciscrot.github.io/digital-methods-accelerator/toolkit/research-practice.html</guid><description>&lt;h1 id="research-practice"&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Historian: Correspondence Analysis for Historical Research with R. &amp;ldquo;This tutorial explains how to carry out and interpret a correspondence analysis, which can be used to identify relationships within categorical data.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Regression Analysis with Scikit-Learn (part 1 - Linear). &amp;ldquo;This lesson provides an overview of linear regression and walks through running both algorithms in Python (using scikit-learn).&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Regression Analysis with Scikit-learn (part 2 - Logistic). &amp;ldquo;This lesson provides an overview of logistic regression, how to use Python (scikit-learn) to make a logistic regression model.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;</description></item><item><title>Research Practice</title><link>https://franciscrot.github.io/digital-methods-accelerator/toolkit/research-practice.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://franciscrot.github.io/digital-methods-accelerator/toolkit/research-practice.html</guid><description>&lt;h1 id="research-practice"&gt;
  Research Practice
  &lt;a class="anchor" href="#research-practice"&gt;#&lt;/a&gt;
 &lt;/h1&gt;
@@ -308,6 +351,13 @@
 &lt;li&gt;Open data&lt;/li&gt;
 &lt;li&gt;Open software&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Historian: Sustainable Authorship in Plain Text using Pandoc and Markdown. &amp;ldquo;This tutorial introduces Markdown and Pandoc, a command line tool that converts plain text into a number of beautifully formatted file types.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Getting Started with Markdown. &amp;ldquo;In this lesson, you will be introduced to Markdown, a plain text-based syntax for formatting documents.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Preserving Your Research Data. &amp;ldquo;This lesson will suggest ways in which historians can document and structure their research data so as to ensure it remains useful in the future.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id="intro-to-experiments"&gt;
  Intro to experiments
  &lt;a class="anchor" href="#intro-to-experiments"&gt;#&lt;/a&gt;
@@ -318,6 +368,13 @@
 &lt;li&gt;Controls &amp;amp; blocking&lt;/li&gt;
 &lt;li&gt;Factorial interaction&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Historian: Regression Analysis with Scikit-Learn (part 1 - Linear). &amp;ldquo;This lesson provides an overview of linear regression and walks through running both algorithms in Python (using scikit-learn).&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Regression Analysis with Scikit-learn (part 2 - Logistic). &amp;ldquo;This lesson provides an overview of logistic regression, how to use Python (scikit-learn) to make a logistic regression model.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Correspondence Analysis for Historical Research with R. &amp;ldquo;This tutorial explains how to carry out and interpret a correspondence analysis, which can be used to identify relationships within categorical data.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id="intro-to-fieldwork"&gt;
  Intro to fieldwork
  &lt;a class="anchor" href="#intro-to-fieldwork"&gt;#&lt;/a&gt;
@@ -326,6 +383,11 @@
 &lt;li&gt;Interviews&lt;/li&gt;
 &lt;li&gt;Coding&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Historian: Scalable Reading of Structured Data. &amp;ldquo;In this lesson, you will be introduced to ‘scalable reading’ and how to apply this workflow to your analysis of structured data.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id="data-governance"&gt;
  Data governance
  &lt;a class="anchor" href="#data-governance"&gt;#&lt;/a&gt;
@@ -336,6 +398,11 @@
 &lt;li&gt;Consent&lt;/li&gt;
 &lt;li&gt;Data protection&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Historian: Introduction to the Principles of Linked Open Data. &amp;ldquo;Introduces core concepts of Linked Open Data, including URIs, ontologies, RDF formats, and a gentle intro to the graph query language SPARQL.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id="ethics-risk"&gt;
  Ethics &amp;amp; risk
  &lt;a class="anchor" href="#ethics-risk"&gt;#&lt;/a&gt;
@@ -345,6 +412,12 @@
 &lt;li&gt;Risk assessment&lt;/li&gt;
 &lt;li&gt;Institutional review&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Historian: Interrogating a National Narrative with GPT-2. &amp;ldquo;In this lesson, you will learn how to apply a Generative Pre-trained Transformer language model to a large-scale corpus so that you can locate broad themes and trends within written text.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Facial Recognition in Historical Photographs with Artificial Intelligence in Python. &amp;ldquo;In this lesson, you’ll learn computer vision and machine learning principles for object recognition, and how to apply these principles using Python to recognize and classify smiling faces in historical photographs.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id="preservation"&gt;
  Preservation
  &lt;a class="anchor" href="#preservation"&gt;#&lt;/a&gt;
@@ -354,6 +427,12 @@
 &lt;li&gt;Archiving&lt;/li&gt;
 &lt;li&gt;Stewardship&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Historian: Preserving Your Research Data. &amp;ldquo;This lesson will suggest ways in which historians can document and structure their research data so as to ensure it remains useful in the future.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Data Mining the Internet Archive Collection. &amp;ldquo;This lesson teaches you how to use Python to automate the downloading of large numbers of MARC files from the Internet Archive and parse MARC records.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id="ip-reuse"&gt;
  IP &amp;amp; reuse
  &lt;a class="anchor" href="#ip-reuse"&gt;#&lt;/a&gt;
@@ -362,7 +441,12 @@
 &lt;li&gt;Copyright&lt;/li&gt;
 &lt;li&gt;Licensing&lt;/li&gt;
 &lt;li&gt;Reuse&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Digital Media and Arts</title><link>https://franciscrot.github.io/digital-methods-accelerator/toolkit/digital-media-arts.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://franciscrot.github.io/digital-methods-accelerator/toolkit/digital-media-arts.html</guid><description>&lt;h1 id="digital-media-and-arts"&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Historian: Transforming Data for Reuse and Re-publication with XML and XSL. &amp;ldquo;This tutorial will provide you with the ability to convert or transform historical data from an XML database into a variety of different presentations.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;</description></item><item><title>Digital Media and Arts</title><link>https://franciscrot.github.io/digital-methods-accelerator/toolkit/digital-media-arts.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://franciscrot.github.io/digital-methods-accelerator/toolkit/digital-media-arts.html</guid><description>&lt;h1 id="digital-media-and-arts"&gt;
  Digital Media and Arts
  &lt;a class="anchor" href="#digital-media-and-arts"&gt;#&lt;/a&gt;
 &lt;/h1&gt;
@@ -374,6 +458,13 @@
 &lt;li&gt;CSS + HTML + JS&lt;/li&gt;
 &lt;li&gt;In-browser games&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Historian: Creating a Dashboard for Interactive Data Visualization with Dash in Python. &amp;ldquo;This lesson shows how to create interactive web-based dashboards using Python’s Dash library.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Creating Interactive Visualizations with Plotly. &amp;ldquo;This lesson demonstrates how to create interactive data visualizations in Python with Plotly’s open-source graphing libraries.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Creating GUIs in Python for Digital Humanities Projects. &amp;ldquo;In this lesson, you will use Qt Designer and Python to design and implement a simple graphical user interface and application to merge PDF files.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id="games-narrative"&gt;
  Games &amp;amp; narrative
  &lt;a class="anchor" href="#games-narrative"&gt;#&lt;/a&gt;
@@ -383,6 +474,14 @@
 &lt;li&gt;Intro to game design&lt;/li&gt;
 &lt;li&gt;Intro to Unity&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Historian: Interactive Fiction in the Humanities Classroom: How to Create Interactive Text Games Using Twine. &amp;ldquo;This lesson provides strategies for incorporating game creation into the classroom.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Teaching History and Languages with a Strategy Computer Game: 0̸ A.D. in the Classroom. &amp;ldquo;This lesson demonstrates how to prepare a geographically accurate historical battle scene in the free and open source computer game 0̸ A.D.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Creating Mobile Augmented Reality Experiences in Unity. &amp;ldquo;This lesson serves as an introduction to creating mobile augmented reality applications.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Designing a Deck of Timeline Cards for Tabletops and Tabletop Simulator. &amp;ldquo;This lesson demonstrates how to use nanDECK to design and publish your own deck of printed or digital playing cards.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id="making-materiality"&gt;
  Making &amp;amp; materiality
  &lt;a class="anchor" href="#making-materiality"&gt;#&lt;/a&gt;
@@ -392,6 +491,12 @@
 &lt;li&gt;Soldering&lt;/li&gt;
 &lt;li&gt;Code textiles&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Historian: Creating Mobile Augmented Reality Experiences in Unity. &amp;ldquo;This lesson serves as an introduction to creating mobile augmented reality applications.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Designing a Deck of Timeline Cards for Tabletops and Tabletop Simulator. &amp;ldquo;This lesson demonstrates how to use nanDECK to design and publish your own deck of printed or digital playing cards.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id="design"&gt;
  Design
  &lt;a class="anchor" href="#design"&gt;#&lt;/a&gt;
@@ -401,6 +506,12 @@
 &lt;li&gt;Design thinking&lt;/li&gt;
 &lt;li&gt;Prototyping&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Historian: Building a static website with Jekyll and GitHub Pages. &amp;ldquo;This lesson will help you create entirely free, easy-to-maintain, preservation-friendly, secure website over which you have full control.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Running a Collaborative Research Website and Blog with Jekyll and GitHub. &amp;ldquo;This lesson introduces the challenges and opportunities that Jekyll offers for publishing collaborative, ongoing research online.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id="security"&gt;
  Security
  &lt;a class="anchor" href="#security"&gt;#&lt;/a&gt;
@@ -408,6 +519,11 @@
 &lt;ul&gt;
 &lt;li&gt;Intro to cybersecurity&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Historian: Introduction to the Bash Command Line. &amp;ldquo;This lesson will teach you how to enter commands using a command-line interface, rather than through a graphical interface.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id="media-archaeology"&gt;
  Media archaeology
  &lt;a class="anchor" href="#media-archaeology"&gt;#&lt;/a&gt;
@@ -415,7 +531,14 @@
 &lt;ul&gt;
 &lt;li&gt;Digital forensics&lt;/li&gt;
 &lt;li&gt;Recovery from obsolete media&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Critical AI Practice</title><link>https://franciscrot.github.io/digital-methods-accelerator/toolkit/critical-ai-practice.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://franciscrot.github.io/digital-methods-accelerator/toolkit/critical-ai-practice.html</guid><description>&lt;h1 id="critical-ai-practice"&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Historian: Introduction to Audiovisual Transcoding, Editing, and Color Analysis with FFmpeg. &amp;ldquo;This lesson introduces the basic functions of FFmpeg, a free command-line tool used for manipulating and analyzing audiovisual materials.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Editing Audio with Audacity. &amp;ldquo;In this lesson you will learn how to use Audacity to load, record, edit, mix, and export audio files.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: The Sound of Data (a gentle introduction to sonification for historians). &amp;ldquo;This lesson will help you hear the past.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;</description></item><item><title>Critical AI Practice</title><link>https://franciscrot.github.io/digital-methods-accelerator/toolkit/critical-ai-practice.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://franciscrot.github.io/digital-methods-accelerator/toolkit/critical-ai-practice.html</guid><description>&lt;h1 id="critical-ai-practice"&gt;
  Critical AI Practice
  &lt;a class="anchor" href="#critical-ai-practice"&gt;#&lt;/a&gt;
 &lt;/h1&gt;
@@ -427,6 +550,15 @@
 &lt;li&gt;RAG methods&lt;/li&gt;
 &lt;li&gt;Risks and harms&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Historian: Creating Deep Convolutional Neural Networks for Image Classification. &amp;ldquo;This lesson provides a beginner-friendly introduction to convolutional neural networks (CNNs) for image classification.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 1). &amp;ldquo;This is the first of a two-part lesson introducing deep learning based computer vision methods for humanities research.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Computer Vision for the Humanities: An Introduction to Deep Learning for Image Classification (Part 2). &amp;ldquo;This lesson digs deeper into the details of training a deep learning based computer vision model.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Interrogating a National Narrative with GPT-2. &amp;ldquo;In this lesson, you will learn how to apply a Generative Pre-trained Transformer language model to a large-scale corpus so that you can locate broad themes and trends within written text.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Understanding and Creating Word Embeddings. &amp;ldquo;Through a primarily theoretical lens, this lesson will teach you how to prepare a corpus and train a word embedding model.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id="carbon-estimation"&gt;
  Carbon estimation
  &lt;a class="anchor" href="#carbon-estimation"&gt;#&lt;/a&gt;
@@ -434,6 +566,11 @@
 &lt;ul&gt;
 &lt;li&gt;CodeCarbon&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Historian: Sustainable Authorship in Plain Text using Pandoc and Markdown. &amp;ldquo;This tutorial introduces Markdown and Pandoc, a command line tool that converts plain text into a number of beautifully formatted file types.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id="distance-reading"&gt;
  Distance reading
  &lt;a class="anchor" href="#distance-reading"&gt;#&lt;/a&gt;
@@ -442,13 +579,25 @@
 &lt;li&gt;AI summation methods&lt;/li&gt;
 &lt;li&gt;Risks and harms&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Historian: Clustering and Visualising Documents using Word Embeddings. &amp;ldquo;This lesson uses word embeddings and clustering algorithms in Python to identify groups of similar documents in a corpus of approximately 9,000 academic abstracts.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Analyzing Documents with TF-IDF. &amp;ldquo;This lesson focuses on a foundational natural language processing and information retrieval method called Term Frequency - Inverse Document Frequency (tf-idf).&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Programming Historian: Understanding and Using Common Similarity Measures for Text Analysis. &amp;ldquo;This lesson introduces three common measures for determining how similar texts are to one another.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id="ai-era-media-literacy"&gt;
  AI era media literacy
  &lt;a class="anchor" href="#ai-era-media-literacy"&gt;#&lt;/a&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Identifying genAI content&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>SHL Digital</title><link>https://franciscrot.github.io/digital-methods-accelerator/toolkit/shl-digital.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://franciscrot.github.io/digital-methods-accelerator/toolkit/shl-digital.html</guid><description>&lt;h1 id="shl-digital"&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Historian: Facial Recognition in Historical Photographs with Artificial Intelligence in Python. &amp;ldquo;In this lesson, you’ll learn computer vision and machine learning principles for object recognition, and how to apply these principles using Python to recognize and classify smiling faces in historical photographs.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;</description></item><item><title>SHL Digital</title><link>https://franciscrot.github.io/digital-methods-accelerator/toolkit/shl-digital.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://franciscrot.github.io/digital-methods-accelerator/toolkit/shl-digital.html</guid><description>&lt;h1 id="shl-digital"&gt;
  SHL Digital
  &lt;a class="anchor" href="#shl-digital"&gt;#&lt;/a&gt;
 &lt;/h1&gt;
