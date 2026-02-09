@@ -1,14 +1,14 @@
 {
   "name": "Digital Methods Accelerator",
   "short_name": "Digital Methods Accelerator",
-  "start_url": "/./",
-  "scope": "/./",
+  "start_url": "/digital-methods-accelerator/",
+  "scope": "/digital-methods-accelerator/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/./favicon.svg",
+      "src": "/digital-methods-accelerator/favicon.svg",
       "sizes": "512x512"
     }
   ]

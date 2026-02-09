@@ -196,23 +196,12 @@
  &lt;td&gt;&lt;a href="critical-AI-practice.html#ai-era-media-literacy"&gt;AI era media literacy&lt;/a&gt;&lt;/td&gt;
  &lt;td&gt;Identifying genAI content&lt;/td&gt;
  &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;SHL Digital&lt;/td&gt;
- &lt;td&gt;&lt;a href="shl-digital.html#infrastructure"&gt;Infrastructure&lt;/a&gt;&lt;/td&gt;
- &lt;td&gt;To be defined&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;SHL Digital&lt;/td&gt;
- &lt;td&gt;&lt;a href="shl-digital.html#services"&gt;Services&lt;/a&gt;&lt;/td&gt;
- &lt;td&gt;To be defined&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;SHL Digital&lt;/td&gt;
- &lt;td&gt;&lt;a href="shl-digital.html#sustainability"&gt;Sustainability&lt;/a&gt;&lt;/td&gt;
- &lt;td&gt;To be defined&lt;/td&gt;
- &lt;/tr&gt;
  &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;h2 id="shl-digital"&gt;
+ SHL Digital
+ &lt;a class="anchor" href="#shl-digital"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
 &lt;h2 id="software-requirements"&gt;
  Software requirements
  &lt;a class="anchor" href="#software-requirements"&gt;#&lt;/a&gt;
@@ -225,13 +214,14 @@
  Coding foundations
  &lt;a class="anchor" href="#coding-foundations"&gt;#&lt;/a&gt;
 &lt;/h2&gt;
-&lt;p&gt;Coding foundations introduce basic programming ideas and workflows that support humanities research, from scripting to reproducible analysis. The focus is on using code as a critical tool that makes assumptions visible and open to critique.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Resources will be added here.&lt;/p&gt;
+&lt;p&gt;Basic programming ideas and workflows that support humanities research.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;ul&gt;
-&lt;li&gt;Intro to coding (Python)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://docs.google.com/document/d/1n2WpHzsr5VIRAJ2cPvKyZ78dj0JTdke2kDyYtkHjRpI/edit?usp=sharing"&gt;Introduction to Programming&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://thonny.org/"&gt;Thonny, a Python IDE for beginners&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://colab.research.google.com/drive/1KEyBnHgFcLf2kyTv-lVPobW34DAIYkZ0"&gt;Introduction to Google Colab (and topic modelling, while we&amp;rsquo;re at it!)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;h2 id="data-work"&gt;
  Data work
  &lt;a class="anchor" href="#data-work"&gt;#&lt;/a&gt;
