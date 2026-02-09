@@ -7,15 +7,15 @@ weight: 2
 
 ## Coding foundations {#coding-foundations}
 
-Coding foundations introduce basic programming ideas and workflows that support humanities research, from scripting to reproducible analysis. The focus is on using code as a critical tool that makes assumptions visible and open to critique.
+Basic programming ideas and workflows that support humanities research. 
 
 <details>
 <summary>Resources</summary>
 
-Resources will be added here.
+- [Introduction to Programming](https://docs.google.com/document/d/1n2WpHzsr5VIRAJ2cPvKyZ78dj0JTdke2kDyYtkHjRpI/edit?usp=sharing)
+- [Thonny, a Python IDE for beginners](https://thonny.org/)
+- [Introduction to Google Colab (and topic modelling, while we're at it!)](https://colab.research.google.com/drive/1KEyBnHgFcLf2kyTv-lVPobW34DAIYkZ0)
 </details>
-
-- Intro to coding (Python)
 
 ## Data work {#data-work}
 
@@ -23,26 +23,26 @@ Data work covers how humanities data is collected, cleaned, and described so it 
 
 <details>
 <summary>Resources</summary>
-
-Resources will be added here.
+- Data cleaning / data wrangling
+- Regular Expressions
+- Metadata
+- What's the difference between a data set and a database?
+- Digital forensics
 </details>
 
-- Data wrangling
-- Metadata
-- Digital forensics
+
 
 ## Text & cultural analytics {#text-cultural-analytics}
 
-Text and cultural analytics explore computational approaches to studying language and cultural patterns at scale. Methods are paired with critical perspectives that question training data, representational limits, and whose voices are amplified or silenced.
+Text and cultural analytics explore computational approaches to studying language and cultural patterns at scale ("at scale" means there's lots of data - for examples, thousands of books that you wouldn't be able to read in the time available). 
 
 <details>
 <summary>Resources</summary>
 
-Resources will be added here.
-</details>
-
 - Topic modelling
 - Embeddings
+- Distance reading and close reading
+</details>
 
 ## Networked culture {#networked-culture}
 
@@ -51,27 +51,26 @@ Networked culture examines how people, texts, and platforms connect and circulat
 <details>
 <summary>Resources</summary>
 
-Resources will be added here.
-</details>
-
 - Network analysis
+- Citation graphs
+</details>
 
 ## Digital collections {#digital-collections}
 
-Digital collections focus on building and maintaining collections that support research, teaching, and public access. The emphasis is on stewardship, access, and ethical care for cultural materials and communities.
+Digital collections focus on building and maintaining collections that support research, teaching, and public access. 
 
 <details>
 <summary>Resources</summary>
 
-Resources will be added here.
+- Creating digital collections
+- Omeka
+- Building a static website on GitHub Pages
+- Digitisation workflows
 </details>
 
-- Creating digital collections
-- Digitisation workflows
+## Data collection {#web-methods}
 
-## Web methods {#web-methods}
-
-Web methods address how to gather and study web-based materials in ways that respect legal, ethical, and platform constraints. These methods treat the web as a dynamic cultural space shaped by algorithms and governance.
+Scraping the web is one important way of collecting data. Other forms of data collection include conducting interviews, deploying microphones or other sensors to record activities, giving participants prompts or challenges or inviting them to participate in playful activities, autoethnographic reflection, etc.
 
 <details>
 <summary>Resources</summary>
