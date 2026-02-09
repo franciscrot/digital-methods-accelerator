@@ -1,13 +1,13 @@
-# Digital Humanities and the Climate Toolkit (draft)
+# Digital Methods Accelerator (draft)
 
 Access the tool-kit on github pages at
-[https://sas-dhrh.github.io/dhcc-toolkit/](https://sas-dhrh.github.io/dhcc-toolkit/).
+[https://franciscrot.github.io/digital-methods-accelerator/](https://franciscrot.github.io/digital-methods-accelerator/)
 
 
 
 *Editing content*
 
-Edit the markdown files in the `./content` folder, commit your changes to the repository, then visit the [Publish to Github pages action](https://github.com/SAS-DHRH/dhcc-toolkit/actions/workflows/main.yml) and manually run the workflow to publish changes.
+Edit the markdown files in the `./content` folder, commit your changes to the repository, then visit the [Publish to Github pages action](https://github.com/franciscrot/digital-methods-accelerator/actions/workflows/main.yml) and manually run the workflow to publish changes.
 
 The site theme is configured to generate last modified date and edit links in the footer of every page, making it easier to link back to and directly edit the markdown files in the github repository.
 
