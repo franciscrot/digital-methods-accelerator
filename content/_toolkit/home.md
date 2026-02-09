@@ -1,6 +1,7 @@
 ---
 title: Home
 weight: 1
+permalink: /toolkit/index.html
 ---
 
 # Digital Methods Accelerator

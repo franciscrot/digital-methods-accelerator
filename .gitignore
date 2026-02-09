@@ -29,3 +29,7 @@ _book
 # Hugo gen directories
 _gen
 .hugo_build.lock
+
+# Jekyll output
+_site
+.bundle

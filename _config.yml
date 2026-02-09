@@ -1,0 +1,26 @@
+title: Digital Methods Accelerator
+description: Digital Methods Accelerator overview
+baseurl: ""
+url: ""
+collections_dir: content
+collections:
+  toolkit:
+    output: true
+    permalink: /toolkit/:name.html
+
+defaults:
+  - scope:
+      path: "content"
+    values:
+      layout: page
+  - scope:
+      type: toolkit
+    values:
+      layout: page
+
+exclude:
+  - node_modules
+  - package.json
+  - package-lock.json
+  - README.md
+  - .github

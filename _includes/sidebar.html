@@ -1,0 +1,11 @@
+<aside class="sidebar" aria-label="Toolkit navigation">
+  <h2>Toolkit</h2>
+  <ul>
+    {% assign toolkit_items = site.toolkit | sort: 'weight' %}
+    {% for item in toolkit_items %}
+      <li>
+        <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</aside>
