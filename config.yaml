@@ -1,4 +1,4 @@
-title: 'DHCC'
+title: 'Digital Methods Accelerator'
 
 # hugo-book theme settings
 theme: "hugo-book"
@@ -6,8 +6,8 @@ disablePathToLower: false
 enableGitInfo: true
 
 params:
-  bookLogo: 'DCHH_FINAL_HAZARD.png'
-  BookRepo: 'https://github.com/SAS-DHRH/dhcc-toolkit'
+  bookLogo: ''
+  BookRepo: 'https://github.com/digital-methods-accelerator/digital-methods-accelerator'
   BookSection: 'toolkit'
   BookCommitPath: 'commit'
   BookEditPath: 'edit/main'
@@ -32,12 +32,9 @@ outputs:
 menu:
   # before: []
   after:
-    - name: "About DHCC ->"
-      url: "https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition"
-      weight: 10
     - name: "Github"
-      url: "https://github.com/SAS-DHRH/dhcc-toolkit"
-      weight: 20
+      url: "https://github.com/digital-methods-accelerator/digital-methods-accelerator"
+      weight: 10
 
 
 # Tidy up some default hugo site settings
@@ -55,4 +52,3 @@ languages:
     languageName: English
 staticDir:
   - static
-
