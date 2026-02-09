@@ -1,7 +1,7 @@
 # Digital Methods Accelerator (draft)
 
-Access the tool-kit on github pages at
-[https://franciscrot.github.io/digital-methods-accelerator/](https://franciscrot.github.io/digital-methods-accelerator/)
+Access the tool-kit on GitHub Pages at
+`https://<owner>.github.io/digital-methods-accelerator/` (replace `<owner>` with the GitHub org or user that owns this repo).
 
 
 
