@@ -22,11 +22,14 @@ weight: 3
 
 ## Formats, standards, etc. {#formats-standards}
 
-- XML
-- JSON / Python
-- XSLT / SQL
-- SPARQL / TEI
-- IIIF
+- "Mark-up" often means adding information to a text that explains what parts of it are, in a way a computer can understand. - For example, HTML marks up how content displayed on the web (headings, paragraphs, links); XML marks up the underlying structure and meaning of data in a flexible, machine-readable way; and TEI is a specific scholarly XML standard for marking up literary and historical texts in rich, interpretive detail.
+- XML – a structured way of 'marking up' text so computers can tell what different parts ARE (e.g. titles, dates, names)
+- XSLT / SQL – XSLT reshapes XML documents into new forms; SQL asks questions of databases (e.g. “show me all items from 1850”)
+- JSON - a simple format for storing and transmitting data
+- Python - Python is a beginner-friendly language for reading, cleaning, and analysing data.
+- SPARQL - SPARQL queries linked data across the web
+- TEI - a scholarly XML standard for encoding literary and historical texts in detail.
+- IIIF – a shared way for libraries and museums to deliver high-resolution images online so they can be viewed, compared, and reused across sites.
 
 <details>
 <summary>Resources</summary>
