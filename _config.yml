@@ -2,21 +2,16 @@ title: Digital Methods Accelerator
 description: Digital Methods Accelerator overview
 baseurl: ""
 url: ""
-collections_dir: content
-collections:
-  toolkit:
-    output: true
-    permalink: /toolkit/:name.html
-
 defaults:
   - scope:
       path: "content"
     values:
       layout: page
   - scope:
-      type: toolkit
+      path: "content/toolkit"
     values:
       layout: page
+      permalink: /toolkit/:basename.html
 
 exclude:
   - node_modules
