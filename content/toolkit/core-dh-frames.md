@@ -7,23 +7,18 @@ weight: 3
 
 ## Critical lenses {#critical-lenses}
 
-- Feminist approaches
-- Queer approaches
-- Decolonial approaches
-- Anti-racist approaches
+- Feminist, queer, decolonial, anti-racist approaches
+- ANT, STS, relational ontologies
+- Political economy, infrastructure studies
 
-## Accessibility {#accessibility}
+## Accessibility and critical disability studies {#accessibility}
 
 - Accessibility
 - Critical disability studies
 
 ## Data lifecycle {#data-lifecycle}
 
-- Acquire
-- Transform
-- Analyse
-- Present
-- Sustain
+- Acquire, Transform, Analyse, Present, Sustain
 
 ## Formats, standards, etc. {#formats-standards}
 
