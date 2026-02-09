@@ -23,11 +23,13 @@ Data work covers how humanities data is collected, cleaned, and described so it 
 
 <details>
 <summary>Resources</summary>
+  
 - Data cleaning / data wrangling
 - Regular Expressions
 - Metadata
 - What's the difference between a data set and a database?
 - Digital forensics
+- 
 </details>
 
 
@@ -46,7 +48,7 @@ Text and cultural analytics explore computational approaches to studying languag
 
 ## Networked culture {#networked-culture}
 
-Networked culture examines how people, texts, and platforms connect and circulate. It combines network analysis with attention to power, mediation, and the politics of digital infrastructures.
+Networked culture examines how people, texts, and platforms connect and circulate. It combines network analysis with attention to power, mediation, and the politics of digital infrastructures. You might want to visualise how various entities are connected in order to communicate your research to audiences. But you also might want to do it just for yourself - to help you spot interesting patterns.
 
 <details>
 <summary>Resources</summary>
