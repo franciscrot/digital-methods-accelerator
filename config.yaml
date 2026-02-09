@@ -40,8 +40,8 @@ menu:
 # Tidy up some default hugo site settings
 baseURL: 'https://digital-methods-accelerator.github.io/digital-methods-accelerator/'
 uglyurls: true
-relativeurls: false
-canonifyURLs: true
+relativeurls: true
+canonifyURLs: false
 disableHugoGeneratorInject: true
 publishDir: ./public
 languageCode: 'en-uk'
