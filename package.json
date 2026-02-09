@@ -1,0 +1,16 @@
+{
+  "name": "digital-methods-accelerator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static site for the Digital Methods Accelerator",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "markdown-it": "^14.1.0",
+    "markdown-it-anchor": "^9.0.1",
+    "markdown-it-attrs": "^4.2.0"
+  }
+}

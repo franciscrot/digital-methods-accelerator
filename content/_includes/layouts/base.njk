@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ title }} | {{ site.name }}</title>
+    <meta name="description" content="{{ description or site.description }}" />
+    <link rel="stylesheet" href="{{ '/assets/css/site.css' | url }}" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="container">
+        <div class="site-title">
+          <a href="{{ '/' | url }}">{{ site.name }}</a>
+          <p>{{ site.tagline }}</p>
+        </div>
+        <nav class="site-nav" aria-label="Primary">
+          <a href="{{ '/' | url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Overview</a>
+          <a href="{{ '/toolkit/' | url }}"{% if page.url | startsWith('/toolkit') %} aria-current="page"{% endif %}>Toolkit</a>
+        </nav>
+      </div>
+    </header>
+    <div class="layout">
+      <aside class="sidebar" aria-label="Toolkit navigation">
+        <h2>Toolkit</h2>
+        <ul>
+          {% for item in collections.toolkit %}
+            <li>
+              <a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.data.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </aside>
+      <main id="main" class="content">
+        {% block content %}{% endblock %}
+      </main>
+    </div>
+    <footer class="site-footer">
+      <div class="container">
+        <p>Digital Methods Accelerator is curated by the Sussex Digital Humanities Lab.</p>
+      </div>
+    </footer>
+  </body>
+</html>

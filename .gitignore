@@ -29,3 +29,6 @@ _book
 # Hugo gen directories
 _gen
 .hugo_build.lock
+
+# Eleventy output
+dist

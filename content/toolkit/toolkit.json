@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/page.njk",
+  "permalink": "toolkit/{{ page.fileSlug }}.html"
+}
