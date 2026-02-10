@@ -29,6 +29,7 @@ weight: 5
 <details>
 <summary>Resources</summary>
 
+- Wikipedia: [Experiment Design](https://en.wikipedia.org/wiki/Design_of_experiments)
 - Programming Historian: Regression Analysis with Scikit-Learn (part 1 - Linear). "This lesson provides an overview of linear regression and walks through running both algorithms in Python (using scikit-learn)."
 - Programming Historian: Regression Analysis with Scikit-learn (part 2 - Logistic). "This lesson provides an overview of logistic regression, how to use Python (scikit-learn) to make a logistic regression model."
 - Programming Historian: Correspondence Analysis for Historical Research with R. "This tutorial explains how to carry out and interpret a correspondence analysis, which can be used to identify relationships within categorical data."
