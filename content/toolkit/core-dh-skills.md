@@ -11,6 +11,7 @@ Basic programming ideas and workflows that support humanities research.
 
 <details>
 <summary>Why learn coding?</summary>
+  
 As arts and humanities researchers, why are we learning coding in the first place? There are all kinds of reasons, but here are just a few. Well, once you’ve got to an intermediary level, you might …
 
 - Automate mundane tasks -- renaming files, batch-processing images or texts, extracting information from many sources, etc.
