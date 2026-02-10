@@ -10,6 +10,21 @@ weight: 2
 Basic programming ideas and workflows that support humanities research. 
 
 <details>
+<summary>Why learn coding?</summary>
+As arts and humanities researchers, why are we learning coding in the first place? There are all kinds of reasons, but here are just a few. Well, once you’ve got to an intermediary level, you might …
+
+- Automate mundane tasks -- renaming files, batch-processing images or texts, extracting information from many sources, etc.
+- Create games or interactive tools to help to disseminate your research, or to use within your teaching.
+- Create digital art.
+- Explore data (e.g. text corpori) at scale, helping you to notice patterns, connections, repetitions, anomalies, absences that would be hard to see by eye.
+- Visualise data - making abstract ideas (e.g. about form, rhythm, or variation) concrete, and putting it into a form you can play around with.
+- Build simple models or simulations to think through processes or systems over time, asking “what happens if…” in a way that is explicit and repeatable.
+- Scrape the web to create data-sets to study further.
+- Influence the physical world, for example by running code on a Raspberry Pi to drive screens, sound, sensors, or small installations for exhibitions, teaching, or creative projects.
+
+Even if you don’t become a coder yourself, as an academic, having an appreciation of coding can help you to work with coders - for example, to devise a research project with a Digital Humanities aspect, to recruit a Research Software Engineer, and to be able to communicate with them effectively.
+</details>
+<details>
 <summary>Resources</summary>
 
 - [Introduction to Programming](https://docs.google.com/document/d/1n2WpHzsr5VIRAJ2cPvKyZ78dj0JTdke2kDyYtkHjRpI/edit?usp=sharing)
